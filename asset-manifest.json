@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/leesantosyt/MyPortfolio/static/css/main.253b83bb.css",
+    "main.js": "/leesantosyt/MyPortfolio/static/js/main.d514b81c.js",
+    "static/media/5 - Empresa Pets.png": "/leesantosyt/MyPortfolio/static/media/5 - Empresa Pets.f93e025b4f0edfebef9f.png",
+    "static/media/1 - Move On.png": "/leesantosyt/MyPortfolio/static/media/1 - Move On.467292621c254669804e.png",
+    "static/media/3 - MotoSport Showcase.png": "/leesantosyt/MyPortfolio/static/media/3 - MotoSport Showcase.b6faf276bc0055627eb8.png",
+    "static/media/2 - Agrinho 2024.png": "/leesantosyt/MyPortfolio/static/media/2 - Agrinho 2024.064bf80ab48d5104a467.png",
+    "static/media/4 - Form.png": "/leesantosyt/MyPortfolio/static/media/4 - Form.4cfc8c13f4e4e59fabd1.png",
+    "static/media/6 - Shop.png": "/leesantosyt/MyPortfolio/static/media/6 - Shop.c471e55f83f0cf3ac367.png",
+    "static/media/logo-figma.png": "/leesantosyt/MyPortfolio/static/media/logo-figma.4741924f22b3ae3746b9.png",
+    "static/media/foto-criador.jpg": "/leesantosyt/MyPortfolio/static/media/foto-criador.1f09cea726e9dd5f8bea.jpg",
+    "static/media/logo-reactjs.png": "/leesantosyt/MyPortfolio/static/media/logo-reactjs.73dbb5bcec516da82694.png",
+    "static/media/fundo-tools.jpeg": "/leesantosyt/MyPortfolio/static/media/fundo-tools.dabff25054dabd93dcc5.jpeg",
+    "static/media/logo-blender.png": "/leesantosyt/MyPortfolio/static/media/logo-blender.9d8a0a52f532197b8862.png",
+    "static/media/logo-css3.png": "/leesantosyt/MyPortfolio/static/media/logo-css3.c200ba2624771e461e43.png",
+    "static/media/logo-html5.png": "/leesantosyt/MyPortfolio/static/media/logo-html5.ee819c464ccfe2601cf3.png",
+    "static/media/logo-javascript.png": "/leesantosyt/MyPortfolio/static/media/logo-javascript.bd63e43304d0aca76a3b.png",
+    "index.html": "/leesantosyt/MyPortfolio/index.html",
+    "main.253b83bb.css.map": "/leesantosyt/MyPortfolio/static/css/main.253b83bb.css.map",
+    "main.d514b81c.js.map": "/leesantosyt/MyPortfolio/static/js/main.d514b81c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253b83bb.css",
+    "static/js/main.d514b81c.js"
+  ]
+}
